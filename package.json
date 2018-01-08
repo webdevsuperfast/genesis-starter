@@ -41,10 +41,7 @@
   "scripts": {
     "test": "echo \"No test specified\""
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/seothemes/genesis-starter"
-  },
+  "repository": "git+https://github.com/seothemes/genesis-starter",
   "keywords": [
     "theme"
   ],
